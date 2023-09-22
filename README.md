@@ -14,3 +14,5 @@ access_token_secret = ''
 
 3. Run ```python JobFinder.py```
 4. To check the computational outputs, run ```python variance.py```
+
+PS : Codes are available in Master branch.
