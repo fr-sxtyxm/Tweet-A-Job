@@ -1,5 +1,7 @@
 # Tweet-A-Job
 
+How to run ?
+
 1. Fetch Twitter API Key, API Key Secret, Access Token, Access Token Secret by creating an App using your Twitter Developer Account.
 2. Open ```JobFinder.py``` and paste your original API keys in :
 
